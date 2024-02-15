@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1640873696 source:c:\users\kikid\documents\praktikum\porsenif\main.cpp
+	<iostream>
+	"porsenif.h"
+
+1640761661 c:\users\kikid\documents\praktikum\porsenif\porsenif.h
+	<iostream>
+
+1640873854 source:c:\users\kikid\documents\praktikum\porsenif\porsenif.cpp
+	"porsenif.h"
+
+1640971230 source:d:\c++\tugas besar\porsenif\main.cpp
+	<iostream>
+	"porsenif.h"
+
+1640972489 d:\c++\tugas besar\porsenif\porsenif.h
+	<iostream>
+
+1640971488 source:d:\c++\tugas besar\porsenif\porsenif.cpp
+	"porsenif.h"
+
+1640972489 source:d:\kuliah\semester 3\struktur data if-44-10 [btg]\tubes\porsenif\main.cpp
+	<iostream>
+	"porsenif.h"
+
+1640972489 d:\kuliah\semester 3\struktur data if-44-10 [btg]\tubes\porsenif\porsenif.h
+	<iostream>
+
+1640971488 source:d:\kuliah\semester 3\struktur data if-44-10 [btg]\tubes\porsenif\porsenif.cpp
+	"porsenif.h"
+
